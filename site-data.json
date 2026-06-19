@@ -2,316 +2,319 @@
   "business": {
     "name": "Mike's Tires | Tire Shop in Dallas, TX | Used & New Tires",
     "shortName": "Mike's Tires",
-    "tagline": "Affordable Tires, Expert Service, Dallas Trust",
+    "tagline": "Your Trusted Tire Experts in Dallas",
     "niche": "Auto Mechanic",
     "phone": "(214) 327-4019",
-    "address": "7929 Ferguson Rd, Dallas, TX 75228",
+    "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri: 8:00 AM - 6:00 PM, Sat: 9:00 AM - 4:00 PM, Sun: Closed",
-    "ctaLabel": "Schedule Appointment",
+    "hours": "Mon-Fri: 8am-6pm, Sat: 9am-4pm, Sun: Closed",
+    "ctaLabel": "Get a Free Quote",
     "headerCta": "Call Now"
   },
   "seo": {
     "title": "Mike's Tires | Best Tire Shop in Dallas, TX | Used & New Tires",
-    "description": "Visit Mike's Tires in Dallas, TX for affordable new and used tires, expert installation, and fast service. Call (214) 327-4019 today!"
+    "description": "Looking for reliable tires in Dallas? Mike's Tires offers quality used and new tires, expert installation, and unbeatable prices. Call now for a free quote!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas’ Trusted Tire Experts Since 1995",
-      "headline": "Affordable New & Used Tires in Dallas, TX",
-      "subheadline": "Get back on the road safely with quality tires at prices you'll love. Expert installation, fast turnaround, and friendly service.",
-      "primaryCta": "Call (214) 327-4019",
-      "secondaryCta": "Get Directions"
+      "eyebrow": "Dallas's Premier Tire Shop",
+      "headline": "Quality Tires at Affordable Prices",
+      "subheadline": "From used to new, we have the perfect tires for your vehicle. Expert service, fast turnaround, and prices that fit your budget.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Learn More"
     },
     "stats": [
       {
-        "value": "4.2",
-        "label": "Google Rating"
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Tires Sold"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
       },
       {
         "value": "500+",
-        "label": "Tires in Stock"
-      },
-      {
-        "value": "25+",
-        "label": "Years of Service"
-      },
-      {
-        "value": "1000+",
         "label": "Happy Customers"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality You Can Trust",
-        "title": "Top-Notch Tires at Unbeatable Prices",
-        "body": "Whether you need budget-friendly used tires or premium new ones, we have the perfect fit for your vehicle. Our inventory is carefully inspected for safety and performance.",
+        "eyebrow": "Used Tires",
+        "title": "Save Big with Quality Used Tires",
+        "body": "We inspect every used tire for tread depth and structural integrity. Get the traction you need at a fraction of the cost of new tires.",
         "bullets": [
-          "Wide selection of brands and sizes",
-          "Thorough safety inspection included",
-          "Installation and balancing available"
+          "All tires inspected for safety",
+          "Up to 80% less than new tires",
+          "Wide selection of brands and sizes"
         ],
         "reverse": false,
         "cardLabel": "Popular",
-        "cardTitle": "Used Tires",
-        "cardBody": "Save money without compromising safety. Our used tires are graded and guaranteed."
+        "cardTitle": "Used Tires Starting at $35",
+        "cardBody": "Great condition, great price. Perfect for budget-conscious drivers."
       },
       {
-        "eyebrow": "Fast & Reliable Service",
-        "title": "Get In, Get Out – Same-Day Service",
-        "body": "We know your time is valuable. That's why we offer quick tire installation, rotations, and repairs without the wait. Most jobs done in under an hour.",
+        "eyebrow": "New Tires",
+        "title": "Top Brands, Best Prices on New Tires",
+        "body": "We carry all major brands including Michelin, Goodyear, Bridgestone, and more. Our prices beat the big-box stores every time.",
         "bullets": [
-          "No appointment necessary for most services",
-          "Expert technicians with years of experience",
-          "Competitive pricing on all services"
+          "Full manufacturer warranty",
+          "Free mounting and balancing",
+          "Expert installation included"
         ],
         "reverse": true,
-        "cardLabel": "Service",
-        "cardTitle": "Tire Repair & Rotation",
-        "cardBody": "Extend the life of your tires with our professional repair and rotation services."
+        "cardLabel": "Best Value",
+        "cardTitle": "New Tires with Warranty",
+        "cardBody": "Drive with confidence. All new tires come with a full warranty."
       }
     ],
     "whyTitle": "Why Choose Mike's Tires?",
     "whyChooseUs": [
       {
-        "title": "Affordable Pricing",
-        "description": "We offer the best prices in Dallas on new and used tires, with no hidden fees."
+        "title": "Expert Technicians",
+        "description": "Our team has over 15 years of combined experience in tire sales and installation."
       },
       {
-        "title": "Experienced Team",
-        "description": "Our technicians have over 25 years of combined experience in the tire industry."
+        "title": "Fast Service",
+        "description": "Most tire changes completed in under an hour. We respect your time."
       },
       {
-        "title": "Huge Inventory",
-        "description": "Hundreds of tires in stock for cars, trucks, and SUVs – we have your size."
+        "title": "Price Match Guarantee",
+        "description": "Found a lower price? We'll match it. You always get the best deal."
       },
       {
-        "title": "Customer First",
-        "description": "We treat every customer like family, ensuring you leave satisfied."
+        "title": "Customer Satisfaction",
+        "description": "We stand behind our work. If you're not happy, we'll make it right."
       }
     ],
     "testimonials": [
       {
-        "quote": "Great prices and quick service. They helped me find a used tire that matched perfectly. Highly recommend!",
-        "author": "James R.",
-        "role": "Pleasant Grove resident"
+        "quote": "I needed new tires on a budget and Mike's Tires hooked me up with great used ones. They even installed them while I waited. Highly recommend!",
+        "author": "James T.",
+        "role": "Oak Lawn resident"
       },
       {
-        "quote": "I've been coming here for years. Honest, friendly, and they never try to upsell you. Best tire shop in Dallas.",
-        "author": "Maria L.",
+        "quote": "Professional, fast, and fair prices. I've been coming here for years and won't go anywhere else.",
+        "author": "Linda M.",
         "role": "Lakewood homeowner"
       },
       {
-        "quote": "Had a flat on a Sunday, and they stayed late to help me out. Saved my day! Will definitely be back.",
-        "author": "David K.",
-        "role": "White Rock local"
+        "quote": "They matched a competitor's price without hesitation and had me in and out in 45 minutes. Excellent service.",
+        "author": "Robert K.",
+        "role": "Bishop Arts district driver"
       }
     ],
     "cta": {
       "headline": "Ready for New Tires?",
-      "subheadline": "Call us or stop by today – we'll get you rolling in no time.",
+      "subheadline": "Get a free quote today and see why Dallas trusts Mike's Tires.",
       "primaryCta": "Call (214) 327-4019",
-      "secondaryCta": "Visit Our Shop"
+      "secondaryCta": "Get a Free Quote"
     }
   },
   "servicesPage": {
-    "intro": "At Mike's Tires, we offer a full range of tire services to keep you safe on the road. From new and used tire sales to repairs and rotations, our team has you covered."
+    "intro": "At Mike's Tires, we offer a full range of tire services to keep you safe on the road. From budget-friendly used tires to premium new ones, we have options for every driver in Dallas."
   },
   "services": [
     {
       "icon": "01",
-      "title": "New Tire Sales",
-      "shortDescription": "Premium new tires from top brands at competitive prices.",
-      "longDescription": "We carry a wide selection of new tires from leading manufacturers like Michelin, Goodyear, Bridgestone, and more. Whether you need all-season, performance, or off-road tires, we'll help you find the perfect set for your driving needs and budget.",
+      "title": "Used Tires",
+      "shortDescription": "Affordable, inspected used tires that perform like new.",
+      "longDescription": "Our used tires are carefully selected and inspected for safety. With tread depths starting at 6/32, you get reliable traction at a fraction of the cost. We stock all common sizes and many rare ones too.",
       "benefits": [
-        "Latest tire technology for safety and performance",
-        "Mileage warranties included",
-        "Free installation with purchase",
-        "Financing options available"
-      ],
-      "process": [
-        {
-          "title": "Consultation",
-          "description": "We discuss your driving habits and recommend the best tire options."
-        },
-        {
-          "title": "Selection",
-          "description": "Choose from our extensive inventory with expert guidance."
-        },
-        {
-          "title": "Installation",
-          "description": "Our technicians mount, balance, and align your new tires efficiently."
-        }
-      ],
-      "faqs": [
-        {
-          "question": "How long does it take to install new tires?",
-          "answer": "Most installations take under an hour. We strive for same-day service."
-        },
-        {
-          "question": "Do you offer tire warranties?",
-          "answer": "Yes, all new tires come with manufacturer warranties. We also provide road hazard protection."
-        }
-      ],
-      "slug": "new-tire-sales"
-    },
-    {
-      "icon": "02",
-      "title": "Used Tire Sales",
-      "shortDescription": "Quality pre-owned tires at a fraction of the cost.",
-      "longDescription": "Save money without sacrificing safety. Our used tires are thoroughly inspected for tread depth, sidewall condition, and overall integrity. We offer a wide range of sizes and brands, all at unbeatable prices.",
-      "benefits": [
-        "Up to 50% less than new tires",
-        "Carefully inspected for safety",
-        "Large selection in stock",
-        "30-day warranty included"
+        "Save 50-80% vs. new tires",
+        "All tires pass safety inspection",
+        "30-day warranty included",
+        "Same-day installation available"
       ],
       "process": [
         {
           "title": "Inspection",
-          "description": "We check each tire for wear, damage, and age."
+          "description": "We examine each tire for tread depth, sidewall damage, and age."
         },
         {
-          "title": "Matching",
-          "description": "We find the best match for your vehicle and budget."
+          "title": "Selection",
+          "description": "Choose from our extensive inventory of matching tires."
         },
         {
           "title": "Installation",
-          "description": "Professional mounting and balancing for a smooth ride."
+          "description": "Our techs mount, balance, and install your tires quickly."
         }
       ],
       "faqs": [
         {
           "question": "How long do used tires last?",
-          "answer": "It depends on tread depth and driving conditions. We grade each tire so you know what to expect."
+          "answer": "Our used tires typically have 50-80% tread life remaining, lasting 20,000-40,000 miles depending on driving habits."
         },
         {
-          "question": "Can I return a used tire if it doesn't fit?",
-          "answer": "Yes, we offer exchanges within 30 days for size or fit issues."
+          "question": "Do you guarantee used tires?",
+          "answer": "Yes, all used tires come with a 30-day warranty against defects."
         }
       ],
-      "slug": "used-tire-sales"
+      "slug": "used-tires"
     },
     {
-      "icon": "03",
-      "title": "Tire Repair & Rotation",
-      "shortDescription": "Extend the life of your tires with professional care.",
-      "longDescription": "Regular tire maintenance is key to safety and longevity. Our team provides expert tire repairs for punctures, leaks, and damage, as well as tire rotations to ensure even wear. We'll keep your tires performing at their best.",
+      "icon": "02",
+      "title": "New Tires",
+      "shortDescription": "Top brands at prices that beat the competition.",
+      "longDescription": "We carry new tires from all major manufacturers including Michelin, Goodyear, Bridgestone, Continental, and more. Our pricing is transparent and competitive. We also offer free mounting and balancing with every purchase.",
       "benefits": [
-        "Extends tire life by thousands of miles",
-        "Improves fuel efficiency",
-        "Enhances vehicle handling",
-        "Prevents uneven wear"
+        "Full manufacturer warranty",
+        "Free mounting and balancing",
+        "Road hazard protection available",
+        "Price match guarantee"
       ],
       "process": [
         {
-          "title": "Diagnosis",
-          "description": "We inspect the tire to identify the issue."
+          "title": "Consultation",
+          "description": "We help you choose the right tire for your vehicle and budget."
         },
         {
-          "title": "Repair",
-          "description": "We patch or plug the tire using industry-standard methods."
+          "title": "Ordering",
+          "description": "We stock popular sizes; special orders arrive within 1-2 days."
         },
         {
-          "title": "Rotation",
-          "description": "We rotate your tires to promote even wear."
+          "title": "Installation",
+          "description": "Professional installation with torque checks and pressure settings."
         }
       ],
       "faqs": [
         {
-          "question": "Can all punctures be repaired?",
-          "answer": "Most punctures in the tread area can be repaired. Sidewall damage usually requires replacement."
+          "question": "Do you offer financing?",
+          "answer": "Yes, we offer financing options through approved credit. Ask us for details."
+        },
+        {
+          "question": "What brands do you carry?",
+          "answer": "We carry Michelin, Goodyear, Bridgestone, Continental, Firestone, and many more."
+        }
+      ],
+      "slug": "new-tires"
+    },
+    {
+      "icon": "03",
+      "title": "Tire Repair & Rotation",
+      "shortDescription": "Extend the life of your tires with professional maintenance.",
+      "longDescription": "Regular tire rotations and timely repairs can extend tire life by thousands of miles. Our technicians inspect for wear patterns, check pressure, and repair punctures up to 1/4 inch in the tread area.",
+      "benefits": [
+        "Extends tire life up to 20%",
+        "Improves fuel efficiency",
+        "Enhances safety and handling",
+        "Affordable flat repair"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check tread depth, pressure, and look for damage."
+        },
+        {
+          "title": "Repair/Rotate",
+          "description": "Punctures are patched from inside; tires are rotated according to manufacturer specs."
+        },
+        {
+          "title": "Final Check",
+          "description": "We re-check pressure and torque lug nuts to spec."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can all flat tires be repaired?",
+          "answer": "Only punctures in the tread area that are less than 1/4 inch can be safely repaired. Sidewall damage requires replacement."
         },
         {
           "question": "How often should I rotate my tires?",
-          "answer": "Every 5,000 to 7,000 miles, or as recommended by your vehicle manufacturer."
+          "answer": "Every 5,000 to 7,500 miles, or as recommended in your vehicle's owner manual."
         }
       ],
       "slug": "tire-repair-rotation"
     },
     {
       "icon": "04",
-      "title": "Wheel Alignment & Balancing",
-      "shortDescription": "Ensure a smooth, safe ride with proper alignment.",
-      "longDescription": "Misaligned wheels can cause uneven tire wear, poor handling, and reduced fuel economy. Our precision alignment and balancing services correct your vehicle's suspension angles and balance your tires for a smooth, vibration-free ride.",
+      "title": "Wheel Alignment",
+      "shortDescription": "Keep your vehicle driving straight and true.",
+      "longDescription": "Proper alignment prevents uneven tire wear and improves handling. We use state-of-the-art equipment to adjust camber, caster, and toe to manufacturer specifications.",
       "benefits": [
-        "Extends tire life significantly",
-        "Improves steering and stability",
-        "Saves on fuel costs",
-        "Reduces vibration and noise"
+        "Prevents premature tire wear",
+        "Better fuel economy",
+        "Smoother ride",
+        "Reduced strain on suspension"
       ],
       "process": [
         {
-          "title": "Inspection",
-          "description": "We check your current alignment and balance."
+          "title": "Pre-Check",
+          "description": "We inspect suspension components for wear."
         },
         {
-          "title": "Adjustment",
-          "description": "We adjust camber, caster, and toe to manufacturer specs."
+          "title": "Alignment",
+          "description": "Computerized alignment adjusts all angles to spec."
         },
         {
           "title": "Test Drive",
-          "description": "We verify the alignment and ensure a smooth ride."
+          "description": "We verify the steering wheel is centered and vehicle tracks straight."
         }
       ],
       "faqs": [
         {
           "question": "How do I know if I need an alignment?",
-          "answer": "Signs include uneven tire wear, pulling to one side, or a crooked steering wheel."
+          "answer": "Signs include uneven tire wear, vehicle pulling to one side, or a crooked steering wheel when driving straight."
         },
         {
-          "question": "How long does alignment take?",
-          "answer": "Typically 30-60 minutes depending on the vehicle."
+          "question": "How long does an alignment take?",
+          "answer": "Typically 30-45 minutes depending on vehicle condition."
         }
       ],
-      "slug": "wheel-alignment-balancing"
+      "slug": "wheel-alignment"
     }
   ],
   "about": {
-    "headline": "Your Dallas Tire Experts Since 1995",
-    "mission": "To provide safe, affordable tires and exceptional service to every customer who walks through our doors.",
+    "headline": "About Mike's Tires",
+    "mission": "To provide Dallas drivers with safe, affordable tires and exceptional service every time.",
     "story": [
-      "Mike's Tires was founded in 1995 with a simple mission: offer quality tires at fair prices without the high-pressure sales tactics. Over the years, we've grown from a small shop into a trusted destination for drivers across Dallas. Our commitment to honesty and hard work has earned us a loyal customer base.",
-      "Today, we continue that tradition. Every tire we sell is inspected, every repair is done right, and every customer is treated like family. We're proud to serve the Dallas community and look forward to helping you for years to come."
+      "Mike's Tires was founded with a simple mission: offer quality tires at fair prices without the high-pressure sales tactics. What started as a small shop has grown into a trusted destination for drivers across Dallas. Our team brings decades of combined experience, and we treat every customer like a neighbor.",
+      "We believe in transparency, honesty, and hard work. From our used tire inspection process to our price match guarantee, every aspect of our business is designed to put you first. Whether you need a budget-friendly used tire or the latest Michelin, we've got you covered."
     ],
     "highlight": {
-      "stat": "25+",
-      "label": "Years of Service"
+      "stat": "15+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We're honest about pricing and recommendations – no upsells, no gimmicks."
+        "description": "We never recommend services you don't need."
       },
       {
-        "title": "Quality",
-        "description": "Every tire and service meets our high standards for safety and performance."
+        "title": "Affordability",
+        "description": "Quality tires shouldn't break the bank. We offer competitive pricing."
       },
       {
-        "title": "Community",
-        "description": "We support our local neighbors and give back to the Dallas area."
+        "title": "Speed",
+        "description": "We value your time. Most services are completed in under an hour."
       },
       {
-        "title": "Reliability",
-        "description": "We show up on time and get the job done right the first time."
+        "title": "Safety",
+        "description": "Every tire we sell meets strict safety standards."
       }
     ]
   },
   "contact": {
     "headline": "Get in Touch",
-    "subheadline": "Stop by or give us a call – we're here to help with all your tire needs.",
+    "subheadline": "Stop by or give us a call. We're here to help.",
     "primaryCta": "Call (214) 327-4019",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Mesquite",
-      "Garland",
-      "Richardson",
-      "Plano"
+      "Oak Lawn",
+      "Lakewood",
+      "Bishop Arts",
+      "Highland Park",
+      "University Park",
+      "East Dallas",
+      "North Dallas"
     ]
   },
   "social_proof": {
-    "rating": 4.2,
+    "rating": "",
     "reviews": null
   },
   "meta": {
